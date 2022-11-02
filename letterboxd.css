@@ -1,0 +1,35 @@
+#popular-reviews {
+    display: none;
+}
+
+.title-hero {
+    display: none;
+}
+
+.c.sub-heading {
+    display: none;
+}
+
+.banner {
+    display: none;
+}
+
+#recent-from-friends {
+    display: none;
+}
+
+#latest-news {
+    display: none;
+}
+
+.section.stories-section {
+    display: none;
+}
+
+.section-heading.-spaced {
+    display: none;
+}
+
+.teaser-grid.-singlerow {
+    display: none;
+}
